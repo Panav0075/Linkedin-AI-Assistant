@@ -27,14 +27,19 @@
 ├── phase1_pipeline.py    # NLP Resume Parsing Logic
 ├── phase2_pipeline.py    # ML Job Recommendation Logic
 ├── requirements.txt      # Project Dependencies
-└── jobs.csv              # Job Listings Dataset
+└── jobs.csv              # Job Listings Dataset (link below)
 
 
-TO start : 
+TO start :
+
+jobs.csv from : https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+
+then,
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
-and GROQ_API_KEY=your_key_here ( replace with yours ) to create one visit : https://console.groq.com/keys
+and GROQ_API_KEY=your_key_here ( replace with yours )
+to create one visit : https://console.groq.com/keys
 
 
 last : streamlit run app.py
