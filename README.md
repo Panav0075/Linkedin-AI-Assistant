@@ -43,3 +43,17 @@ to create one visit : https://console.groq.com/keys
 
 
 last : streamlit run app.py
+
+## 🎥 Demo Video
+
+Click below to watch:
+
+
+
+https://github.com/user-attachments/assets/835f34a3-61b4-4517-8271-1648e0fc5549
+
+
+
+https://github.com/user-attachments/assets/79f2e3fa-9e6a-4fa5-b13f-7867e8da7025
+
+
