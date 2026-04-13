@@ -47,7 +47,9 @@ last : streamlit run app.py
 ## 🎥 Demo Video
 
 ### 📊 Using Kaggle Dataset
-[![Watch Demo](https://img.youtube.com/vi/4kPHs6nsMUA/0.jpg)](https://www.youtube.com/watch?v=4kPHs6nsMUA)
+[![Watch Demo](https://img.youtube.com/vi/4kPHs6nsMUA/0.jpg)](https://www.youtube.com/watch?v=4kPHs6nsMUA) 
 
 ### 📄 Using Resume Upload
-[![LinkedIn Assistant Demo](https://img.youtube.com/vi/F_O2BeK6-Io/0.jpg)](https://www.youtube.com/watch?v=F_O2BeK6-Io)
+[![LinkedIn Assistant Demo](https://img.youtube.com/vi/F_O2BeK6-Io/0.jpg)](https://www.youtube.com/watch?v=F_O2BeK6-Io) 
+
+
