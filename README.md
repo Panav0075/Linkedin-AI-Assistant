@@ -46,14 +46,8 @@ last : streamlit run app.py
 
 ## 🎥 Demo Video
 
-Click below to watch:
+### 📊 Using Kaggle Dataset
+[![Watch Demo](https://img.youtube.com/vi/4kPHs6nsMUA/0.jpg)](https://www.youtube.com/watch?v=4kPHs6nsMUA)
 
-## 🎥 Demo Video
-
-Watch the working demo of the system below Using Kaggle Dataset:
-
-[![Watch Demo](https://img.youtube.com/vi/4kPHs6nsMUA/maxresdefault.jpg)](https://youtu.be/4kPHs6nsMUA)
-
-Watch the working demo of the system below Using Resume Upload:
-
-[![LinkedIn Assistant Demo](https://img.youtube.com/vi/F_O2BeK6-Io/0.jpg)](https://youtu.be/F_O2BeK6-Io)
+### 📄 Using Resume Upload
+[![LinkedIn Assistant Demo](https://img.youtube.com/vi/F_O2BeK6-Io/0.jpg)](https://www.youtube.com/watch?v=F_O2BeK6-Io)
