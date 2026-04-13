@@ -52,7 +52,7 @@ Click below to watch:
 
 Watch the working demo of the system below Using Kaggle Dataset:
 
-[![LinkedIn Assistant Demo](https://img.youtube.com/vi/4kPHs6nsMUA/0.jpg)](https://youtu.be/4kPHs6nsMUA)
+[![Watch Demo](https://img.youtube.com/vi/4kPHs6nsMUA/maxresdefault.jpg)](https://youtu.be/4kPHs6nsMUA)
 
 Watch the working demo of the system below Using Resume Upload:
 
