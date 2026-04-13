@@ -41,23 +41,13 @@ python -m spacy download en_core_web_sm
 and GROQ_API_KEY=your_key_here ( replace with yours )
 to create one visit : https://console.groq.com/keys
 
-
 last : streamlit run app.py
 
-<h2>🎥 Demo Video</h2>
 
-<h3>📊 Job Recommendations using Kaggle Dataset</h3>
-<a href="https://www.youtube.com/watch?v=4kPHs6nsMUA">
-  <img src="https://img.youtube.com/vi/4kPHs6nsMUA/0.jpg" width="600">
-</a>
-
-<h3>📄 Resume Upload and Analysis</h3>
-<a href="https://www.youtube.com/watch?v=F_O2BeK6-Io">
-  <img src="https://img.youtube.com/vi/F_O2BeK6-Io/0.jpg" width="600">
-</a>
-
-
+```
 ## 🎥 Demo Video
+
+Explore the working demo of the system below:
 
 ### 📊 Using Kaggle Dataset
 [![Watch Demo](https://img.youtube.com/vi/4kPHs6nsMUA/0.jpg)](https://www.youtube.com/watch?v=4kPHs6nsMUA) 
